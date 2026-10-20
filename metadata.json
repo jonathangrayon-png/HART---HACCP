@@ -1,0 +1,10 @@
+{
+  "name": "Remix HART HACCP",
+  "description": "Application d\u0027hygiène et traçabilité HACCP pour la restauration : gestion des températures, plans de nettoyage, traçabilité photos DLC, multi-établissements et exports audits.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
